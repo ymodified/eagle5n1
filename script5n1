@@ -731,7 +731,7 @@ SLOWDNS DETAILS
 DNS URL : $(cat /root/ns.txt)
 SSH via DNS : 442
 DNS RESOLVER : $dnsresolverName
-DNS PUBLIC KEY : $(cat /root/.dns/server.pub)
+DNS PUBLIC KEY : 83eb5d3076f5c7c9fe2bbf855844338eae9bo02dec250dda7e2d8c4d1894a07a
 
 -----------------------
 
